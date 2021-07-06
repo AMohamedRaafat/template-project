@@ -11,7 +11,7 @@ class App extends Component {
       <BrowserRouter>
         <Nav />
         <Switch>
-          <Route path="/Home" component={Index} exact />
+          <Route pat="/ultra-profile" component={Index} exact />
           <Route path="/contact" component={Contact} />
         </Switch>
         <Footer />
