@@ -9,7 +9,7 @@ const Nav = () => {
                 <LogoText>Ultra Profile</LogoText>
             </Logo>
           <UlList>
-            <ListItem ><Anchor as={NavLink} exact to="/">Home</Anchor></ListItem>
+            <ListItem ><Anchor as={NavLink} exact to="/Home">Home</Anchor></ListItem>
             <ListItem ><Anchor href="#">About</Anchor></ListItem>
             <ListItem ><Anchor href="#">Profile</Anchor></ListItem>
             <ListItem ><Anchor href="#">Work</Anchor></ListItem>
