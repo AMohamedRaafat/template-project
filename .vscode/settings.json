@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": null,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "git.promptToSaveFilesBeforeCommit": "never",
+    "git.promptToSaveFilesBeforeStash": "never"
+}
