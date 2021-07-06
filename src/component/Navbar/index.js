@@ -14,7 +14,7 @@ const Nav = () => {
             <ListItem ><Anchor href="#">Profile</Anchor></ListItem>
             <ListItem ><Anchor href="#">Work</Anchor></ListItem>
             <ListItem ><Anchor href="#">Portfolio</Anchor></ListItem>
-            <ListItem ><Anchor as={NavLink} to="/contact">Contact</Anchor></ListItem>    
+            <ListItem ><Anchor as={NavLink} to="/ultra-profile/contact">Contact</Anchor></ListItem>    
           </UlList>
         </Navbar>   
     </div>

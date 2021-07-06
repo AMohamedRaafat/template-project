@@ -12,7 +12,7 @@ class App extends Component {
         <Nav />
         <Switch>
           <Route pat="/ultra-profile" component={Index} exact />
-          <Route path="/contact" component={Contact} />
+          <Route path="/ultra-profile/contact" component={Contact} />
         </Switch>
         <Footer />
       </BrowserRouter>
